@@ -8,6 +8,12 @@ namespace Entidades
 {
     public class Moto : Vehiculo
     {
+        /// <summary>
+        /// Instancia todos los datos de la Moto
+        /// </summary>
+        /// <param name="marca">Marca de la Moto</param>
+        /// <param name="chasis">Chasis de la Moto</param>
+        /// <param name="color">Color de la Moto</param>
         public Moto(EMarca marca, string chasis, ConsoleColor color):
             base(chasis,marca,color)
         {
@@ -15,7 +21,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Las motos son chicas
+        /// Devuelve el Tamano de la Moto (Chico)
         /// </summary>
         protected override ETamanio Tamanio
         {
@@ -25,6 +31,10 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Muestra todos los datos de la Moto
+        /// </summary>
+        /// <returns>Retorna todos los datos de la Moto en formato string</returns>
         public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();

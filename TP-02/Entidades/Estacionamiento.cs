@@ -22,10 +22,19 @@ namespace Entidades
         }
 
         #region "Constructores"
+
+        /// <summary>
+        /// Constructor del Estacionamiento que icializara a la lista de productor
+        /// </summary>
         private Estacionamiento()
         {
             this.vehiculos = new List<Vehiculo>();
         }
+
+        /// <summary>
+        /// Constructor del Estacionamiento que icializara el espacio disponible
+        /// </summary>
+        /// <param name="espacioDisponible"></param>
         public Estacionamiento(int espacioDisponible): this()
         {
             this.espacioDisponible = espacioDisponible;
@@ -36,7 +45,7 @@ namespace Entidades
         /// <summary>
         /// Muestro el estacionamiento y TODOS los vehículos
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Retorna todos los vehiculos en el estacionamiento</returns>
         public override string ToString()
         {
             return Estacionamiento.Mostrar(this, ETipo.Todos);
@@ -51,7 +60,7 @@ namespace Entidades
         /// </summary>
         /// <param name="c">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
-        /// <returns></returns>
+        /// <returns>Retorna todos los vehiculos en el Estacionamientos en formato string</returns>
         public static string Mostrar(Estacionamiento c, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
@@ -87,7 +96,7 @@ namespace Entidades
         /// </summary>
         /// <param name="c">Objeto donde se agregará el elemento</param>
         /// <param name="p">Objeto a agregar</param>
-        /// <returns></returns>
+        /// <returns>retorna el objeto Estacionamiento</returns>
         public static Estacionamiento operator +(Estacionamiento c, Vehiculo p)
         {
             bool existe = false;
@@ -115,7 +124,7 @@ namespace Entidades
         /// </summary>
         /// <param name="c">Objeto donde se quitará el elemento</param>
         /// <param name="p">Objeto a quitar</param>
-        /// <returns></returns>
+        /// <returns>retorna el objeto Estacionamiento</returns>
         public static Estacionamiento operator -(Estacionamiento c, Vehiculo p)
         {
             foreach (Vehiculo v in c.vehiculos)
