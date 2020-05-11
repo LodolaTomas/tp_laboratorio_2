@@ -24,7 +24,7 @@ namespace Entidades
         #region "Constructores"
 
         /// <summary>
-        /// Constructor del Estacionamiento que icializara a la lista de productor
+        /// Constructor del Estacionamiento que icializara a la lista de Vehiculos
         /// </summary>
         private Estacionamiento()
         {
