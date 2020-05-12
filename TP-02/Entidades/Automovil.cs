@@ -28,7 +28,7 @@ namespace Entidades
         public Automovil(EMarca marca, string chasis, ConsoleColor color)
             : base(chasis, marca, color)
         {
-            this.tipo = ETipo.Monovolumen;
+            
         }
 
         /// <summary>
@@ -41,6 +41,7 @@ namespace Entidades
         public Automovil(EMarca marca, string chasis, ConsoleColor color,ETipo tipo):
             this(marca,chasis,color)
         {
+            this.tipo = tipo;
         }
 
 
@@ -65,10 +66,8 @@ namespace Entidades
 
             sb.AppendLine("AUTOMOVIL");
             sb.AppendLine(base.Mostrar());
-            sb.Append("TAMAÑO : ");
-            sb.Append(this.Tamanio.ToString());
-            sb.AppendLine("TIPO : " + this.tipo.ToString());
-            sb.AppendLine("");
+            sb.AppendLine("TAMAÑO: " + this.Tamanio);
+            sb.AppendLine("TIPO: " + this.tipo);
             sb.AppendLine("---------------------");
 
             return sb.ToString();
