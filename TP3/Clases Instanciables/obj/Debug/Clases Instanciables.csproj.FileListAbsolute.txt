@@ -1,0 +1,28 @@
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\obj\Debug\Clases instanciables.csproj.CopyComplete
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\obj\Debug\Clases instanciables.csprojAssemblyReference.cache
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\obj\Debug\Clases instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\obj\Debug\Clases instanciables.csproj.CopyComplete
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

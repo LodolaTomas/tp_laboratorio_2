@@ -1,0 +1,20 @@
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

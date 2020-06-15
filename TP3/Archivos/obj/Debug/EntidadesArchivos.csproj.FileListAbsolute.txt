@@ -1,0 +1,2 @@
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Archivos\obj\Debug\EntidadesArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Archivos\obj\Debug\EntidadesArchivos.csprojAssemblyReference.cache

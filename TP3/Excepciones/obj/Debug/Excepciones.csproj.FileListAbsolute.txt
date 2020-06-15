@@ -1,0 +1,17 @@
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lodol\source\repos\Lodola.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\TP3\Excepciones\obj\Debug\Excepciones.pdb

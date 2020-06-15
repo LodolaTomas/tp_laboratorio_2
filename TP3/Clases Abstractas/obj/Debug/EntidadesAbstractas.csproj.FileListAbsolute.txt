@@ -1,0 +1,4 @@
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
