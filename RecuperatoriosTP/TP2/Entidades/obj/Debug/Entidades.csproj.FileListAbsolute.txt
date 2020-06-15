@@ -1,0 +1,36 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lodol\Downloads\tp02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\lodol\Downloads\tp02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lodol\Downloads\tp02\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lodol\Downloads\tp02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\lodol\Downloads\tp02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2hs\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2hs\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2hs\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2hs\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2hs\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\lodol\Desktop\gg\tp_laboratorio_2hs\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lodola\Desktop\CarpetaGIT\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\obj\Debug\Entidades.pdb
