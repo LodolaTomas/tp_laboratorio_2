@@ -1,0 +1,7 @@
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lodola\source\repos\Lodola.Tomas.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
